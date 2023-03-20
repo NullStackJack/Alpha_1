@@ -1,0 +1,8 @@
+import time
+
+lst_1 = ['Hold...', 'Wait for it...', 'FIIIIRRREEEE!!!!!']
+
+for element in lst_1:
+    print(element)
+    time.sleep(3)
+    
